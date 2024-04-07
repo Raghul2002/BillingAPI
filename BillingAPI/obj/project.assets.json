@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Dotnet web api\\BillingAPI\\BillingAPI\\BillingAPI.csproj",
+      "projectUniqueName": "D:\\Project\\Dotnet web api\\BillingAPI\\BillingAPI.csproj",
       "projectName": "BillingAPI",
-      "projectPath": "D:\\Project\\Dotnet web api\\BillingAPI\\BillingAPI\\BillingAPI.csproj",
+      "projectPath": "D:\\Project\\Dotnet web api\\BillingAPI\\BillingAPI.csproj",
       "packagesPath": "C:\\Users\\Raghul\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Dotnet web api\\BillingAPI\\BillingAPI\\obj\\",
+      "outputPath": "D:\\Project\\Dotnet web api\\BillingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raghul\\AppData\\Roaming\\NuGet\\NuGet.Config",
